@@ -21,7 +21,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Holaa, I am
                 <b><a target="_blank"> Javier </a></b>
         </samp>
 </h3>
@@ -30,7 +30,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Soy programador y técnico en sisrtemas <b> España </b> 」
+    「 Soy programador y técnico en sisrtemas microinformáticos en red <b> España </b> 」
     <br>
     <br>
   </samp>
@@ -59,7 +59,7 @@
 <br />
 
 <!-- About Section -->
- # About me
+ # Acerca de mi
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
