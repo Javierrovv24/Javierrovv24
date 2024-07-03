@@ -99,8 +99,8 @@ Principales proyectos de código abierto -
   <br/>
 </a> -->
 <a href="https://github.com/Javierrovv24">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Javierrovv24&theme=2077" alt="" height="200px" width="300">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Javierrovv24&theme=2077" alt="" height="500px" width="400">
 </a>
 <a href="https://github.com/Javierrovv24">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Javierrovv24&theme=2077&utcOffset=8" alt="" height="200px" width="300">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Javierrovv24&theme=2077&utcOffset=8" alt="" height="500px" width="400">
 </a>
