@@ -93,18 +93,18 @@ Principales proyectos de código abierto -
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Javierrovv24&theme=2077" alt="Contribución de Javierrovv24 en GitHub"/>
   </a>
 </p>
-<!-- <a> 
+ <a> 
     <a href="https://github.com/Javierrovv24"><img alt="Estadísticas de GitHub de Javierrovv24" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Javierrovv24&theme=2077" height="192px" width="49.5%"/></a>
   <a href="https://github.com/Javierrovv24"><img alt="Lenguajes más usados por Al Siam" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Javierrovv24&theme=2077" height="192px" width="49.5%"/></a>
   <br/>
-</a> -->
+</a> 
 <br>
 <a href="https://github.com/Javierrovv24">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Javierrovv24&theme=2077" alt="" height="500px" width="400">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Javierrovv24&theme=2077" alt="" height="192px" width="49.5%">
 </a>
 <br>
 <br>
 <a href="https://github.com/Javierrovv24">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Javierrovv24&theme=2077&utcOffset=8" alt="" height="500px" width="400">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Javierrovv24&theme=2077&utcOffset=8" alt="" height="192px" width="49.5%">
 </a>
 <br>
