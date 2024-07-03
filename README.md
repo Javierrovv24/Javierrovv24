@@ -98,9 +98,13 @@ Principales proyectos de código abierto -
   <a href="https://github.com/Javierrovv24"><img alt="Lenguajes más usados por Al Siam" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Javierrovv24&theme=2077" height="192px" width="49.5%"/></a>
   <br/>
 </a> -->
+<br>
 <a href="https://github.com/Javierrovv24">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Javierrovv24&theme=2077" alt="" height="500px" width="400">
 </a>
+<br>
+<br>
 <a href="https://github.com/Javierrovv24">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Javierrovv24&theme=2077&utcOffset=8" alt="" height="500px" width="400">
 </a>
+<br>
