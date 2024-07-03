@@ -90,7 +90,8 @@ Principales proyectos de código abierto -
        height="192px" width="49.5%" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Javierrovv24&theme=2077" alt="Contribución de Javierrovv24 en GitHub"/>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Javierrovv24&theme=2077"
+ alt="Contribución de Javierrovv24 en GitHub"/>
   </a>
 </p>
  <a> 
