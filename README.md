@@ -46,7 +46,7 @@ Acerca de mí
  <img align="right" width="350" src="/assets/programmer.gif" alt="Gif de programación" />
 ✌️   Disfruto programar y compartir conocimientos <br/><br/>
 ❤️   Me encanta escribir código y aprender nuevas funcionalidades<br/><br/>
-📧   Contáctame en cualquier momento: alsiam.dev@gmail.com<br/><br/>
+📧   Contáctame en cualquier momento: javierroviramoreno@gmail.com<br/><br/>
 💬   Pregúntame cualquier cosa aquí
 
 </p>
