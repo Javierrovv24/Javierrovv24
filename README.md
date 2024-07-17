@@ -99,7 +99,7 @@ Principales proyectos de código abierto -
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Javierrovv24&theme=2077&utcOffset=8" alt="" height="192px" width="49.5%">
 </a>
 <br>
-<p >Soy experto en estas tecnologías</p>
+<p >Manejo estas tecnologías</p>
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
