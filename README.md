@@ -47,12 +47,6 @@
 </p>
 
 <br />
-
-<!-- GitHub Stats Section -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Javierrovv24&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" style="width: 49%; height: auto;" alt="GitHub Streak" />
-  </a>
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Javierrovv24&theme=2077">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Javierrovv24&theme=2077" style="width: 100%; height: auto;" alt="Contribuciones en GitHub" />
   </a>
