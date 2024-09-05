@@ -4,12 +4,12 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programador%20Autodidacta;Desarrollador%20Front%20End;Más%20de%201.5%20años%20de%20experiencia%20en%20programación;Siempre%20aprendiendo%20cosas%20nuevas&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Javierrovv24"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programador%20Autodidacta;Desarrollador%20Front%20End;Más%20de%201.5%20años%20de%20experiencia%20en%20programación;Siempre%20aprendiendo%20cosas%20nuevas&center=true&width=380&height=45"></a>
 </p>
 
 <!-- Contador de visitantes -->
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Visitantes del perfil" />
+<a href="https://komarev.com/ghpvc/?username=Javierrovv24">
+  <img align="right" src="https://komarev.com/ghpvc/?username=Javierrovv24&label=Visitors&color=0e75b6&style=flat" alt="Visitantes del perfil" />
 </a>
 
 <!-- Intro -->
