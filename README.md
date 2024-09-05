@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/javiier_r24" target="_blank">
+  <a href="https://x.com/javierrovira21" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/javiier_r24/" target="_blank">
+  <a href="https://www.instagram.com/javierrovira21/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
