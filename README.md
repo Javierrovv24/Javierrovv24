@@ -51,10 +51,10 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Javierrovv24&theme=2077" style="width: 100%; height: auto;" alt="Contribuciones en GitHub" />
   </a>
   <a href="https://github.com/Javierrovv24">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Javierrovv24&theme=dark"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Javierrovv24&theme=dark" style="width: 49%; height: auto"/>
   </a>
   <a href="https://github.com/Javierrovv24">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Javierrovv24&theme=dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Javierrovv24&theme=dark" style="width: 49%; height: auto"/>
   </a>
   <a href="https://github.com/Javierrovv24">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Javierrovv24&theme=2077" style="width: 49%; height: auto;" alt="Estadísticas de GitHub de Javierrovv24" />
