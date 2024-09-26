@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/Javierrovv24"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programador%20Autodidacta;Desarrollador%20Front%20End;Más%20de%201.5%20años%20de%20experiencia%20en%20programación;Siempre%20aprendiendo%20cosas%20nuevas&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Javierrovv24"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programador%20Autodidacta;Desarrollador%20Front%20End;Más%20de%203%20años%20de%20experiencia%20en%20programación;Siempre%20aprendiendo%20cosas%20nuevas&center=true&width=380&height=45"></a>
 </p>
 
 <!-- Contador de visitantes -->
