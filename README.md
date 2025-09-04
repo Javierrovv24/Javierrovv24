@@ -34,7 +34,7 @@
   </a>
 </p>
 
-<br />
+<br/>
 
 <!-- About Section -->
 <h3>Acerca de mí</h3>
