@@ -20,7 +20,7 @@
 <p align="center">
   <samp>
     <br>
-    Soy programador y técnico en sistemas microinformáticos en red de <b>España</b>
+    Técnico en sistemas microinformáticos en red de <b>España</b>
     <br><br>
   </samp>
 </p>
@@ -40,10 +40,8 @@
 <h3>Acerca de mí</h3>
 <p>
   <img align="center" width="100%" src="/assets/programmer.gif" alt="Gif de programación" />
-  ✌️   Disfruto programar y compartir conocimientos <br/><br/>
-  ❤️   Me encanta escribir código y aprender nuevas funcionalidades<br/><br/>
+  ✌️   Disfruto compartir conocimientos <br/><br/>
   📧   Contáctame en cualquier momento: javierroviramoreno@gmail.com<br/><br/>
-  💬   Pregúntame cualquier cosa aquí
 </p>
 
 <br />
